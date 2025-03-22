@@ -10,7 +10,7 @@ I'm a software engineer from New York with 4+ years of experience working with P
 ## 🖥️ Tech Stack
 
 Programming Languages: 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 Libraries:
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff) ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
@@ -24,8 +24,8 @@ Databases:
 - Implementing and showcasing [Rose's algorithm](https://iopscience.iop.org/article/10.1088/0266-5611/18/6/329) for single-side autofocusing in layered materials in <strong>MATLAB</strong>
 - <strong>GrammoType</strong>, a typing application inspired by [Monkeytype](https://www.monkeytype.com) and [KeyBr](https://www.keybr.com/) that identifies problem bigrams and trigrams (letter pairs and triples)
 - Solving the first 100 problems on Project Euler with different programming languages
-    - Completed: <strong>Python, C++, JavaScript, C#</strong>
-    - In progress: <strong>Java</strong>
+    - Completed: <strong>Java, Python, C++, JavaScript, C#</strong>
+    - In progress: <strong>Go</strong>
 - My own personal portfolio website
 - IT and cloud certifications (CompTIA A+ certified, currently working on <strong>Net+</strong>)
 
